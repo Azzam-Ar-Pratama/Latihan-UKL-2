@@ -12,5 +12,6 @@ Cara kerja:
 
 Input:
 Satu bilangan bulat (integer).
+
 Output:
 Pesan teks yang menyatakan "Bilangan X adalah genap" atau "Bilangan X adalah ganjil".
